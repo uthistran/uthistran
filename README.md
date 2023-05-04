@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uthistran
 - 👀 I’m interested in ReactJS, JavaScript, NodeJS
 - 💞️ I’m looking to collaborate on interesting startup projects
-- 📫 How to reach me uthistran@gmail.com
+- 📧 How to reach me uthistran@gmail.com
 - 💻 My Portfolio : https://kovilpatti.co.in/Portfolio/
 
 <!---
